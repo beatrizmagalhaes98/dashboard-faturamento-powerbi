@@ -15,7 +15,8 @@ Acompanhar o faturamento da empresa de forma consolidada, permitindo filtrar por
 - Tabela detalhada com quantidade vendida, valor e indicador por cliente
 - Filtros por Ano/Mês e por Indicador
 
-![Print do dashboard](imagens/dashboard.png)
+<img width="1255" height="705" alt="image" src="https://github.com/user-attachments/assets/55160275-cdd0-41da-a246-35e1342d9bba" />
+
 
 ## 🛠️ Tecnologias utilizadas
 
